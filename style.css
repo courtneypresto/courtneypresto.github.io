@@ -4,7 +4,7 @@
 body {
   /*border-style: solid;*/
   /*border-width: medium;*/
-background-color: rgba(10,15, 15, .2);
+background-color: rgba(10,15, 15, 0);
   /*width: 640px;*/
 }
 
@@ -62,9 +62,8 @@ p{
 	border-width: 1px 0;
     border-color: transparent;
 }
-/*.hoverPic:hover{
-	height:100%;
-	width: 100%;
-}*/
-	 
+hr{
+	color: rgba(0,0, 0, 1);
+	background-color: rgba(0,0, 0, 1);
+} 
 
